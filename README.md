@@ -17,7 +17,7 @@
     <td>Audio</td><td>Realtek ALC255</td>
   </tr>
   <tr>
-    <td>Wifi & BT</td><td>BCM94360NG</td>
+    <td>Wifi & BT</td><td>none</td>
   </tr>
   <tr>
     <td>內建網卡</td><td>Intel l219LM7</td>
