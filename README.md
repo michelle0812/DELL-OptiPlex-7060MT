@@ -14,7 +14,7 @@
     <td>iGPU</td><td>Intel UHD Graphics 630 1536MB</td>
   </tr>
   <tr>
-    <td>Audio</td><td>Realtek ALC255</td>
+    <td>Audio</td><td>Internal Audio & Realtek ALC255 & DisplayPort Audio</td>
   </tr>
   <tr>
     <td>Wifi & BT</td><td>none</td>
