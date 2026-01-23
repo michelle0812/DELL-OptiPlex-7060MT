@@ -26,7 +26,7 @@
     <td>PCIe網卡</td><td>Intel X520-DA2</td>
   </tr>
   <tr>
-    <td>系統</td><td>macOS Sequoia 26.2 + OpenCore 1.0.7</td>
+    <td>系統</td><td>macOS Tahoe 26.2 + OpenCore 1.0.7</td>
   </tr>
  <tr>
     <td>Disable CFG-Lock</td><td>GRUBShell setup_var 0x5BE 0x0</td>
